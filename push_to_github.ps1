@@ -10,3 +10,4 @@ if (-not (Test-Path $git)) {
 }
 
 & $git push -u origin main
+
